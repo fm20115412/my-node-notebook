@@ -1,0 +1,21 @@
+{
+  "name": "my-node-notebook",
+  "version": "1.0.0",
+  "description": "This is a notebook by node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon --inspect index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fm20115412/my-node-notebook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fm20115412/my-node-notebook/issues"
+  },
+  "homepage": "https://github.com/fm20115412/my-node-notebook#readme"
+}
